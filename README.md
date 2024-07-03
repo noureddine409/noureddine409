@@ -17,6 +17,15 @@ I am a recent graduate with a degree in Computer Engineering from the National S
 - **Bachelor's Degree:** Ingénieur d'État in Computer Engineering, National School of Applied Sciences, Agadir
 - **Certifications:** AWS Certified Developer – Associate (in progress)
 
+## Blogs
+
+I also write about my experiences and insights into software development. Check out some of my blog posts:
+
+- [Leveraging Change Data Capture (CDC) for Loosely Coupled Microservices](https://medium.com/stackademic/leveraging-change-data-capture-cdc-for-loosely-coupled-microservices-9dc92f94f1e4)
+- [Spring WebFlux and Server-Sent Events: A Match Made in Heaven](https://medium.com/stackademic/spring-webflux-and-server-sent-events-a-match-made-in-heaven-89e96e912ea0)
+- [Unlocking the Power of Graph Databases: A Journey through Neo4j and Cypher Queries](https://medium.com/stackademic/unlocking-the-power-of-graph-databases-a-journey-through-neo4j-and-cypher-queries-61a12423cd12)
+- [more blogs..](https://medium.com/@noureddinelachgar9)
+
 ## Contact Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lachgar-2542/)
