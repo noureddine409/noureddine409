@@ -15,8 +15,10 @@ I am a recent graduate with a degree in Computer Engineering from the National S
 ## GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noureddine409&show_icons=true&locale=en" alt="noureddine409" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noureddine409&theme=tokyonight" alt="noureddine409" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noureddine409" alt="noureddine409" /></p>
+
+
 
 
 ## Projects
