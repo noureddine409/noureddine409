@@ -17,7 +17,7 @@ I am a recent graduate with a degree in Computer Engineering from the National S
 ### Fraud Detection System
 A comprehensive fraud detection system implemented using various repositories for different components.
 
-- **Technologies Used:** Java, Spring Boot, PostgreSQL, Kafka, Debezium
+**Technologies Used:** Java, Spring Boot, PostgreSQL, Kafka, Debezium
 - real time data connector repository: [Fraud-Connector](https://github.com/noureddine409/fraud-connector)
 - real time data preparation service repository: [Fraud-Data-Preparation](https://github.com/noureddine409/fraud-data-preparation-service)
 - real time data analysis service repository: [Fraud-Data-analysis](https://github.com/noureddine409/fraud-analysis-service)
@@ -26,7 +26,7 @@ A comprehensive fraud detection system implemented using various repositories fo
 ### Fitness Platform
 A fitness platform to manage workouts and track fitness progress, implemented across two repositories.
 
-- **Technologies Used:** Java, Spring boot, PostgreSQL, Angular, Typescript, Bootstrap, Paypal API, AWS S3
+**Technologies Used:** Java, Spring boot, PostgreSQL, Angular, Typescript, Bootstrap, Paypal API, AWS S3
 - Backend repository: [Fitness Platform Backend](https://github.com/noureddine409/fitness-backend)
 - Frontend repository: [Fitness Platform Frontend](https://github.com/noureddine409/fitness-front)
 
