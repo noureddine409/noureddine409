@@ -12,6 +12,24 @@ I am a recent graduate with a degree in Computer Engineering from the National S
 - **Tools & Environments:** Git, Docker, IntelliJ IDEA, Gitlab-ci
 - **Development Methodologies:** Agile, Scrum
 
+## Projects
+
+### Fraud Detection System
+A comprehensive fraud detection system implemented using various repositories for different components.
+
+- **Technologies Used:** Java, Spring Boot, PostgreSQL, Kafka, Debezium
+- real time data connector repository: [Fraud-Connector](https://github.com/noureddine409/fraud-connector)
+- real time data preparation service repository: [Fraud-Data-Preparation](https://github.com/noureddine409/fraud-data-preparation-service)
+- real time data analysis service repository: [Fraud-Data-analysis](https://github.com/noureddine409/fraud-analysis-service)
+- configuration service: [Fraud-Config](https://github.com/noureddine409/fraud-config-service)
+
+### Fitness Platform
+A fitness platform to manage workouts and track fitness progress, implemented across two repositories.
+
+- **Technologies Used:** Java, Spring boot, PostgreSQL, Angular, Typescript, Bootstrap, Paypal API, AWS S3
+- Backend repository: [Fitness Platform Backend](https://github.com/noureddine409/fitness-backend)
+- Frontend repository: [Fitness Platform Frontend](https://github.com/noureddine409/fitness-front)
+
 ## Education
 
 - **Bachelor's Degree:** Ingénieur d'État in Computer Engineering, National School of Applied Sciences, Agadir
